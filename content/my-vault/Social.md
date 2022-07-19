@@ -1,7 +1,8 @@
 ---
 title: "Social Media"
 tags:
-- time
+- social
+- identity
 ---
 
 My social media usage skyrocketed during the pandemic — and subsequently tanked. Before then I was a little dopamine monkey perking up at every comment, DM, and message that came my way. But when the only tie I had to the outside world was siphoned through pixels and notification pings, the allure quickly wore off. 
