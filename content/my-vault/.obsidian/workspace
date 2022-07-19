@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AsAmFilm.md",
+            "file": "Social.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AsAmFilm.md",
+                "file": "Social.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AsAmFilm.md",
+                "file": "Social.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AsAmFilm.md"
+                "file": "Social.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "108931bcfb8d2c86",
   "lastOpenFiles": [
-    "Social.md",
     "everything.md",
     "AsAmFilm.md",
+    "Social.md",
     "2022-07-15.md"
   ]
 }
