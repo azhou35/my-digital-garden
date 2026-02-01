@@ -1,27 +1,15 @@
 ---
-title: 🪴 Quartz 3.2
+title: "🪴 anniez"
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Welcome to my little corner of the Internet — a digital garden where I collect thoughts, writing, and ideas as they grow.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+Feel free to wander around. You can start by browsing:
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+- **[Writing](/my-vault/Articles/)** — essays on solitude, design, coffee, and more
+- **[Tech](/my-vault/tech/)** — notes from the world of infrastructure and computing
+- **[Urbanism](/my-vault/urbanism/)** — thoughts on cities and spaces
+- **[Poetic Phrases](/my-vault/poetic-phrases/)** — language that stuck with me
+- **[Mind Dump](/my-vault/mind-dump/)** — raw, unfiltered thinking
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-### Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+Or press `Ctrl` + `k` to search for anything, and explore the graph to see how ideas connect.

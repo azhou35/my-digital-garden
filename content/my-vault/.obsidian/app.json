@@ -1,4 +1,17 @@
 {
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
   "newLinkFormat": "absolute",
-  "alwaysUpdateLinks": true
+  "autoConvertHtml": false,
+  "openBehavior": "daily"
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Social.md",
+            "file": "BeReal.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social.md",
+                "file": "BeReal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social.md",
+                "file": "BeReal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social.md"
+                "file": "BeReal.md"
               }
             }
           }
@@ -130,9 +130,15 @@
   },
   "active": "108931bcfb8d2c86",
   "lastOpenFiles": [
-    "everything.md",
-    "AsAmFilm.md",
+    "Tech-Bubble.md",
     "Social.md",
-    "2022-07-15.md"
+    "Secretary-Problem.md",
+    "Pasted image 20220725220029.png",
+    "Hoarder.md",
+    "Coffee-Culture.md",
+    "Deceptive-design.md",
+    "everything.md",
+    "Bell-Jar.md",
+    "BeReal.md"
   ]
 }
