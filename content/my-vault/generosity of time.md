@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 i am delighted by humans above all. 
 

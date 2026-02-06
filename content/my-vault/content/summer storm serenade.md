@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 on the last day of june the city sweats itself sticky. 

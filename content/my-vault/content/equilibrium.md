@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 sarah kay [[sarah kay commencement speech|once]] said something along the lines of: *every time i am writing i wish i was out living. every time i am living i wish i was in writing.*

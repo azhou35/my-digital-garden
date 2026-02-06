@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 *all i want to be is be seen*
 - i catch up with an old friend and we're appalled by the new social media fronts our old classmates have put on. this friend and i used to be religious watchers of best dressed, who sold herself on a brand of authenticity

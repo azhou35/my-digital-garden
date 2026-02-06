@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 my favorite part of the guggenheim wasn’t the art — it was observing people observe the art, their heads craned to squint at the skylight, their hands pointing at the different exhibits. there’s that word, sonder, to describe the realization that each random passerby is living a life as vivid and complex as your own. i adore the camera’s ability to peel back a stranger’s layers and project a story. on the 6 line uptown, i listened to dhruv’s new album, which he sums up as “maximal, intimate, soulful.” i stared out the window, submerged in dissonance, as the outside blurred: “chaos, in a musical way.” 

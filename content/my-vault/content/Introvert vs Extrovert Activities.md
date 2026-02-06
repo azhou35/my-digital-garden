@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 I bill myself as an extrovert, but a lot of my hobbies are inherently solitary. There's an ideal number of participants in a conversation where I thrive -- typically four -- and anything after that my voice easily fades. As a result, I'm hopeless at group settings in house parties and feel most at ease in intimate 1:1s. 

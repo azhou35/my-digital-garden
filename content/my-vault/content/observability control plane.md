@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 I believe that single-pane systems-level observability - the practice of instrumenting, correlating, and autonomously acting on multi-modal telemetry - will be the linchpin of reliability and efficiency in any complex, high-stakes infrastructure. By viewing relationships and casual chains across components of a system, you can not only diagnose systems but prevent them before they cascade. 

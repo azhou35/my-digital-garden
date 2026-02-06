@@ -1,5 +1,9 @@
 ---
 title: "timepiece"
+publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 **“How do I build a less anxious relationship with time?”**

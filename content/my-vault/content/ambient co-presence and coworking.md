@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 *published on [substack]([ambient co-presence - by anniething & anniewhere](https://anniewhere.substack.com/p/ambient-co-presence?utm_source=profile&utm_medium=reader2))*

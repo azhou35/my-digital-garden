@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 Favorite Articles:
 * [https://open.substack.com/pub/nicoles/p/intimacy-thresholds?r=7hgq8&utm_medium=ios](https://open.substack.com/pub/nicoles/p/intimacy-thresholds?r=7hgq8&utm_medium=ios)

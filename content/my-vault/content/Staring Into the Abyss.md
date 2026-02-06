@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 Inspired by [Staring into the abyss as a core life skill | benkuhn.net](https://www.benkuhn.net/abyss/)

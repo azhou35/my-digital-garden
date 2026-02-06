@@ -1,6 +1,9 @@
 ---
 title: 周 annie's garden
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 ### 🌱 Genesis

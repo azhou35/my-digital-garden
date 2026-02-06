@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 if a complex idea is a fortress, each building block is an atomic note, or a smaller composable idea. 
 

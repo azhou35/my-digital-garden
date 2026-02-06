@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 i’m an aspiring creative. as someone constantly gravitating towards my right-brain instincts but pigeon-holed into a left-brain industry, I want to cultivate a creative 5-9 to fight burnout from my 9-5. Creative technologists inspire me, especially to work on my technical skills and creative experience, so I can create my own lil cozy part of the Internet.  want to cultivate a creative 5-9 to fight burnout from my 9-5. Content creators, specifically the cinematic ones, have also incited my own desire to story telling. and I’m experimenting with creative tools, asides from the obvious gen-AI ones my dad keeps linking me to, and thinking about ways technology can impact the creative process in a productive way. I’ve thought about creativity and elucidated some takeaways I’ll keep in mind moving forward.
 

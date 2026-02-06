@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 behind the camera gives you the perfect anthropologist position: present but removed, participating but with plausible deniability for non-participation. you get to document your personal life, which lets you study social dynamics without being full vulnerable. 
 it's my default mode: i can slide behind camera (literally or metaphorically when social situations get too intense or performative)

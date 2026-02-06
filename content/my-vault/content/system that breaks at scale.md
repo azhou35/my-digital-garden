@@ -1,6 +1,9 @@
 ---
 published: 
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 these are multi-layered systems of human, logistic, and operational complexity, that have multiple failure points that can cascade into *notable failures for the end user.*
 

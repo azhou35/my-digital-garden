@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 | **Chinese Word** | **Pinyin**          | **Meaning**                     | **Literal Translation** | **Usage**                                                                  |

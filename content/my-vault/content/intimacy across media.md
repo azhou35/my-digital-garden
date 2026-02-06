@@ -1,6 +1,9 @@
 ---
 published: 
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 *on digital and physical bids for connection*
 forked from [[her in 2025]]

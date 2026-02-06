@@ -1,6 +1,9 @@
 ---
 published: 
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 for my friends looking to get into substack but don't know where to start. here's some of my favorite writers and the critical pieces that shaped my own writing. 
 

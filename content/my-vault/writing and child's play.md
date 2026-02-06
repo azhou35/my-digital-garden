@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 from https://substack.com/home/post/p-150508914?selection=f1aa01b3-8db6-423d-96c8-5126ab9a847e#:~:text=A%20city%20you%20love%20will%20always%20love%20you%20back%3B%20it%20invites%20you%20to%20project%20whatever%20you%20like%20onto%20it 

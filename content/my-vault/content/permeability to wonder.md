@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 "This awe made him feel good, still permeable to wonder, but also shamefully provincial. Country mouse."

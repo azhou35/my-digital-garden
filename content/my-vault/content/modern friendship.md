@@ -8,6 +8,9 @@ intention is everything
 ---
 title: "23: On Golden Light and Growing"
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 The winter darkness stings deeper in February, but I was born on a rare 72-degree day in early March. My mom entered the hospital wearing a bright yellow jacket—something she could shed away, along with anticipation. I think about this often: how we enter the world already shedding versions of ourselves.

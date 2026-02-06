@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 provincial draw towards crusty sourdough and soup 
 cooking for friends 

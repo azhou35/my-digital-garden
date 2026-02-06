@@ -1,6 +1,9 @@
 ---
 published: 
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 *in response to a good friend's thesis*

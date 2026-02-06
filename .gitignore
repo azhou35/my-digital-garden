@@ -20,3 +20,4 @@ public/
 
 # OS files
 .DS_Store
+assets/indices/contentIndex.json

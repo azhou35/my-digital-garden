@@ -1,6 +1,9 @@
 ---
 title: "23: On Golden Light and Growing"
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 The winter darkness stings deeper in February, the type of bone-chill that clutches in lemmas of stillness. But I was born on a rare 72-degree day in early March—my mom entering the hospital with a bright yellow jacket and swollen anticipation, both of which she could shed away. I think about this often: how we enter the world already shedding versions of ourselves.

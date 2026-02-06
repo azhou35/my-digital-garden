@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 i wish more than ever that i could bottle up this past hour, running down the waterfront this balmy october morning. the type of weather where your hands tingle themselves silly and you run a little faster to stay a little warmer. 

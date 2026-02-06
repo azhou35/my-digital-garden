@@ -1,6 +1,9 @@
 ---
 published: 
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 "I have measured out my life with coffee spoons."

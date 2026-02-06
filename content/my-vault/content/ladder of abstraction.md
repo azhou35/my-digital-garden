@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/) 
 Abstracting Over This Example

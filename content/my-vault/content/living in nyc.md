@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 there is no city in the united states with a higher density of talent, art, industry, and culture as new york. culture, as ill-defined as the term may be, is defined in the city. there's such a high standard for fashion & food that it's guaranteed you'll be surrounded by the most relevant and trendy options. the zeitgeist of america will be defined on these streets. 
 

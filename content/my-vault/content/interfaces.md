@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 - i am interested in interfaces bc of the same reason i am interested in authenticity + individualism - 
 - i think every product has a very unique value prop and inner core sense

@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 it feels much too early to pen my personal reflection on my capital-c Career, but i've amassed a collection of principles in the process of over-ruminating my own path. 

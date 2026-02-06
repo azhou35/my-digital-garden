@@ -1,5 +1,8 @@
 ---
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 [Fuzzy Social Choice Theory (Studies in Fuzziness and Soft Computing, 315): B. Gibilisco, Michael, M. Gowen, Annie, E. Albert, Karen, N. Mordeson, John, J. Wierman, Mark, D. Clark, Terry: 9783319051758: Amazon.com: Books](https://www.amazon.com/Social-Choice-Studies-Fuzziness-Computing/dp/331905175X) 
