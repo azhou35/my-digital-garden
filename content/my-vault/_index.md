@@ -4,7 +4,8 @@ _build:
   render: "always"
   list: "always"
 cascade:
-  _target:
+- _target:
+    path: "**"
     kind: "page"
   _build:
     render: "never"

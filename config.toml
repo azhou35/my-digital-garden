@@ -6,10 +6,7 @@ disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
-    # Personal notes - tracked in git but not published
-    "/content/my-vault/[0-9]+-.*\\.md",       # Daily notes (2025-10-21.md, 12-01 diary entry.md, etc.)
-    "/content/my-vault/'[0-9]+.*\\.md",       # Notes starting with '25, etc.
-    "/content/my-vault/content/*",             # Personal drafts folder
+    # Personal/system folders - not published
     "/content/my-vault/Dashboards/*",
     "/content/my-vault/Templates/*",
     "/content/my-vault/00 Inbox/*",
@@ -21,6 +18,9 @@ ignoreFiles = [
     "/content/my-vault/kalshi/*",
     "/content/my-vault/substack drafts/*",
     "/content/my-vault/docs/*",
+    "/content/my-vault/social ideas/*",
+    "/content/my-vault/creative side hustle/*",
+    "/content/my-vault/quartz/*",
 ]
 summaryLength = 20
 [pagination]
