@@ -4,7 +4,14 @@ title: "🪴 anniez"
 
 Welcome to my little corner of the Internet — a digital garden where I collect thoughts, writing, and ideas as they grow.
 
-Feel free to wander around. You can start by browsing:
+## Featured
+
+- **[timepiece](/my-vault/timepiece/)** — on building a less anxious relationship with time
+- **[living in nyc](/my-vault/content/living-in-nyc/)** — why I moved to the city
+- **[BeReal](/my-vault/tech/bereal/)** — the post-pandemic answer to ambient noise
+- **[modern friendship](/my-vault/content/modern-friendship/)** — navigating relationships in the digital age
+
+## Browse by topic
 
 - **[Writing](/my-vault/content/)** — essays on solitude, design, coffee, and more
 - **[Tech](/my-vault/tech/)** — notes from the world of infrastructure and computing

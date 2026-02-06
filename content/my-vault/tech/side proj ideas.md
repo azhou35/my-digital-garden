@@ -1,5 +1,6 @@
 ---
 title: "side proj ideas"
+publish: true
 ---
 
 # ideas

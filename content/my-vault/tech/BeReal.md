@@ -2,6 +2,7 @@
 title: "BeReal"
 tags:
 - social
+publish: true
 ---
 
 ![[Pasted image 20220725220029.png]]
