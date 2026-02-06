@@ -1,6 +1,9 @@
 ---
 title: "side proj ideas"
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 # ideas

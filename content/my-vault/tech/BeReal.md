@@ -3,6 +3,9 @@ title: "BeReal"
 tags:
 - social
 publish: true
+_build:
+  render: "always"
+  list: "always"
 ---
 
 ![[Pasted image 20220725220029.png]]
