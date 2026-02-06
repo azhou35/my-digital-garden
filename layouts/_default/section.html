@@ -12,7 +12,7 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        {{ $publishedPages := where .RegularPages "Params.publish" true }}
+        {{ $publishedPages := where .RegularPages ".Params.publish" "==" true }}
         {{ $paginator := .Paginate ($publishedPages.ByLastmod.Reverse) }}
         {{partial "page-list.html" $paginator.Pages }}
         {{ template "_internal/pagination.html" .}}
