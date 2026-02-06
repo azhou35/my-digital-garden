@@ -1,0 +1,396 @@
+---
+title: "early jan 25 journal entry"
+---
+
+snapshot:
+- 1 week into code red security patch (996)
+- post-all day hang w vinny / jess 
+- 2-3 months post-moving to sf
+
+ugh yk it's one of those days where theres so many things going on but also good convos being had & undeniable self learnings and you realize you just HAVE to sit down and write your thoughts out
+bc this is a transient precious moment in time
+yeah. this is one of those days
+
+heart is full
+this week i discovered purpose (which is =/= meaning, aka your Grand Quest of Life)
+
+social events:
+- sat night
+	- comma capital
+		- lame 
+	- andrews office warming
+		- lame
+	- spontaneous din w cat z and aaryan
+		- cat's eternal self-comparison game, calling me approachable v her unapproachable, her talking constantly about boys/dating 
+			- i feel weird bc she is a foil of me and i want to be like her but i also dont enoy her life bc she projects on me
+				- she has the baddie aesthetic i want - tight black dress, black mascara, white nails, silver jewelry
+	
+			- surprised to learn she is second gen based on how angsty she is
+				- her quest is rlly how do i make a $ the same way my mom did 
+				- my quest is how do i make my parent's immigration to china worth it
+					- this is related to my eternal existentialism on living up to my potential and carrying the baton of my father 
+				- i enjoy her comment about my writing but it comes off kilter bc theyre deeply personal thoughts
+			- i like how aaryan asked how much would u get paid to kill someone 
+			- or if u could do one crime to make sure no one would ever suffer that crime what would u do
+			- so glad i didnt take peregrine it sounds terrible
+				- cat actively looking at abuse files etc
+		- very machievalliean esque
+		- aaryan being the constant "prankster" as he self-refers himself
+		- its an odd trio, diff selves of me are brought out w them individually, so i dont know how to act w them together 
+	- post hang i work and pass out
+- sun
+	- morning take caltrain w vinny while hes reading severance and the sun is shining on him 
+		- im complaining about work and giving him the high level
+		- hes reading severance which i told him about and dragged him to ling ma
+		- he has good questions about the client relationship we have 
+		- in front of stadium i tell him my goal is to pay more attention to my style, beauty, skincare, hair aka fundamenals 
+		- he also has a similar style glowup goal 
+			- describes my style as very "tech"
+		- his sister flo buys a lot of clothes, spends 1 hr before school to get ready and film 
+			- cycles thru so many clothes
+			- i think i care about form-function fit 
+	- hockey!
+		- lots of thoughts about sports again
+		- i think it's a really elegant sport when they move
+			- less so when they try to act
+				- bc the hockey is an extension of self and its not a fully controllable limb 
+			- itd be so cool to do like an animation representing hockey players on the rink bc they are constantly moving around a central midpoint
+			- they dont score as much here
+			- the puck kinda goes crazy, less precise
+			- not as violent as i thought it would be (aka cornell)
+		- the word of the day is zamboni
+		- there's a spectrum on how easy a sport is to watch with little context of the sport
+			- e.g. baseball is on the max: hard to watch w o context
+				- its like reading a calculus book without arithmetic
+			- hockey is relatively easy to watch
+				- u shoot puck into goal
+			- basketball has some nuance and elegance
+			- football surprisingly so
+		- im circulating a lot of thoughts around sports, should write about it some time
+	- btw sooo many sharks fans even tho theyre bad 
+		- many smols w jerseys
+	- im very impatient - when we were trying to get out of the food place vinny and jess dithered while i just pushed past ppl
+		- eg when we were leaving dinner and checking caltrain i started walking
+		- always gotta be moving / multitasking
+- nails
+	- such good girlie convo w jess
+	- on style / hair
+		- she uses straightener to straighten down top of hair and curl in
+		- she wants to be more scandi chic while i wanna be more y2k 
+		- she used to try hard in work but its a matter of
+			- why if everyone is not trying hard in style
+				- girls overthink this lol
+	- we talk about work
+		- everytime we talk about work i am constrained in my advice just bc she inherits a very traditional mindset on success (leetcode, tech job, bootcamps) whereas i operate on a different abstraction
+			- she sees job x and thinks "what skills do i need to do this"
+			- i see job x and think "what will i learn on the job"
+				- i learn via projects/reading
+	- she asks what i learned recently
+		- talk about breakneck:
+			- engineering vs lawyerly state 
+			- manufacturing power vs tech/finance power
+			- are you really free?
+				- in america chained to big business
+				- in china chained to .. policy / government 
+		- i want to read more geopolitical stuff
+			- she asked me what i wanna read and i buffered. i need a good go to for "what have i read recently / want to read"
+- dinner
+	- valley goat - same as girl and goat and i didnt realize
+		- very warm ambiance, felt like i was in a farm, wooden 
+		- lots of smol goats - count the number of goods 
+	- so good! 
+	- new american food w asian influence
+		- eg pork shank w bossam vibes
+	- questions like
+		- why are there no michelin star chinese restaurants
+			- obv answer: there's an inherent price ceiling for our willingness to pay for chinese food vs japanese
+				- my counter: fine mexican / latam exists despite cheap perceptions 
+			- my answer: textural differences / fine dining takes an ingredient and isolates an element and puts a spin, hard to isolate elments of chinese food like soysauce
+				- vinnys counter: spicy food 
+					- my counter - michelin doesnt rlly like spicy
+			- why dont we have a restaurant w the regional specialty across china ? 
+			- jess - from guangdi, lots of suancai, ru luo shi aka snail noodles
+			- vinny - wuzhounese, by port 
+		- what is a compliment u get that u rlly appreciate
+			- jess: funny
+			- annie: mature/funny/good writer 
+				- i want more ppl to say im smart
+			- vinny: good friend, i rly appreciate u, ur easy to talk to 
+			- generally: good taste
+				- reflection: prob the compliment that you have good friends
+		- family traditions
+			- vinny showed us his family christmas and it was so cute
+				- flo jsut does things - 
+					- bought reindeer ears
+					- matching sweaters
+					- played game where they grab cash
+					- gets cupcakes from wechat
+				- his dad lowkey makes rlly good food 
+					- also cares about protein lmao 
+					- like my dad
+			- jess's mom also makes good food
+		- if ur partner gave feedback on appearance would u take it srsl
+			- me - yes but the hair thing is stupid
+				- but also i ask nitin to shave
+				- but also he asks me to buy clothes i dont like
+			- vinny - no 
+		- board games
+			- vinny playing chinese poker
+		- ugh theres def something here about owning property in china and playing games and risk and reward and tradeoff and payoff and gambling
+	- overall so happy and so grateful to have friends u can talk endlessly w - taxicub theory
+- train back from caltrain
+	- i love vinny but hes a little slow and im impatient
+	- khoi/justin double book melt down
+	- i tell him a loottt about my work reflections
+	- i realze vinny is so easy to vent to. i dunno how when im w him the self analysis and the self therapizing rlly comes out in a way it doesnt w other friends 
+	- more work reflectoins later but loosely considering -
+	- perception of myself in work
+		- confidence/making a call
+		- being slow at operational work (etc excel/terminal)
+			- making mistakes
+			- his suggestion:
+				- make checklists
+				- double triple check 
+				- set up good systems
+				- reference old work for formulas
+			- so many things like sensitive info that he is mindful of
+		- as someone early in career ur the bottom of barrel eat shit kinda type
+			- eg at azure id do the grunt spreadsheet making work for aditya
+			- batch usage data for mitra
+				- passed onto me by caro 
+				- which i pass onto anthony
+			- my realization on excel: its rlly hard to operate other ppls excels without doing it urself first
+	- vinny's q: can u imagine urself as kenny by age 30
+		- shoudl i tell kenny straight lmao thats the metric that i used to choose my job
+			- im very impressed by how he stepped up and pushed back on azure
+		- my answer was yes
+			- he was like what about kids?
+			- ugh rabbit hole about nitin wanting kids before me 
+		- for as long as i can keep pushing i will keep going
+
+### job reflections 1-11-2026
+- q1 rly sm more chaotic than fall/winter
+	- shoulda done my moving shit last month lmao
+- sev-nvidia-maintenances
+	- good vis program 
+	- helps me see the bigger picture of tpm
+		- ur running an inherently risky operation that requires cooperation and coordination and processes 
+			- and every time two things clash there's inherent friction and fallout 
+				- no one knows how system x interacts w system y when mechanism z is introduced
+				- eg unclear consequence of these maintenances to 
+					- scheduling system
+						- a lot of my priors were broken and i had to reevaluate / reassess
+				- **TO DO:** document and diagram this effect / system
+					- eg saagar didnt rlly know what consequences there are
+			- you have to make calls knowing 80% of the info 
+				- and accept the consequence
+			- but also loop in the right stakeholders to make an informed decision OR to get their buy-in/sign off/cover ur ass
+				- eg rpms/research
+		- tpm is about **picking and choosing ur risk** so you **make decisions** that lead **towards an outcome**
+			- there is no riskless decision u just gotta do it sometimes
+			- diff ppl have diff opinions of risk based on their pov/sme 
+			- u have to make a call for the greater good (utilitarianism)
+	- negotiation
+		- good to be in lockstep, good to call out bullshit
+		- so glad im not at azure where theyre throwing bodies at the problem
+		- remember to call out what processes/systems they should build to make this easier next time
+- overall this was a rlly good highlevel crashcourse into the company
+	- weeds of scheduling system
+	- working w clusters team
+	- less so hwh even tho we own the maintenance controller
+		- good reflection point w eri where we talked about protecting boundaries, how to make this less toilsome
+- maintenance
+	- should not be this painful / handholdy 
+	- ppl have averse reaction to maintenance
+		- low trust
+		- its like a bite the bullet and pray
+		- how do i derisk maintenances so its less of a operational burden? 
+			- that ppl dont respond w guh
+			- that ppl dont fear on call
+		- ideally it should
+			- go in the bg
+			- have minimal impact
+			- overcommunicate w ample downtime
+				- not human led, system led
+		- we need control plane for
+			- customer
+				- vis 
+				- tracking
+				- updates
+	- i should not need to defer on other csps (nad make their slas/work harder) just to lock in on this 
+		- much like we call out azure for lack of resource i call myself out for being resource constrained
+		- resource constraint should not be exposed to partners - u should manage expectations b4 hand
+- level of abstractions of convos
+	- how granular / fine they need to be
+	- vs high level 
+- lot of respect for fleet/oai
+	- we can rally / go to war - first real exp
+	- ppl also proactively check in on u / other teammates re burnout bc theyve experienced burnout 
+		- eg kenny offering to take on work
+		- eri taking on sujiths work 
+		- vansh looking out for eri 
+	- u can trust ppl to self mobilize
+		- give them an outcome and they will figure out the right steps - just make sure u get the right ppl
+			- its cool bc incentives are aligned 
+			- theres some algorithmic corollarly here like recursive
+			- maybe it's like agents?
+			- chat suggests:
+				- stochastic, decentralized gradient descent
+				- many agents (resources/sres)
+				- one objective function (resolve the incident)
+				- Each agent has partial local information
+				- Agents act **independently and in parallel**
+				- They communicate deltas (“hey I fixed X”, “Y is blocked”, “Z is now healthy”)
+		- ppl will always take u seriously / treat things w stakes here no matter how busy 
+		- v slack responsive culture
+- i like tpm! 
+	- i like coordinating ppl 
+		- nudging them towards right outcome
+	- i like working towards the best outcome w all the inputs
+	- i like being a master of all, jack of none 
+		- tech-wise: excel, terminal, using tools like zoku/engine manager, maybe cursor/web development, snowflake/db 
+	- i like how it's technical but also a ppl problem but also a systems problem 
+	- i like how its highly vis
+	- defining signals, driving action, optimizing and being efficient
+		- i should study control theory
+- i dont like tpm
+	- i dont like comms 
+	- its lots of operational work esp at scale
+	- u have to context switch sm 
+	- only u hold all the cards and u reveal info to ppl selectively / thoughtfully 
+	- it can be thankless 
+		- devs r actively dirving out work 
+- i like maintenance
+	- i like how its highly vis and touches all parts of the company
+	- obv have a lot of context
+	- its an easy ramp given my jnr level
+- i dont like maintenance
+	- i want to automate my job away and rely on a system rather than runbooks
+	- its hard to have net-new wins
+		- e.g. maintenance in construction projs is considered a cost
+		- so ur mindset is always cost-cuttin
+		- humans are loss-averse
+		- i want projs/to eventually do something that is a growth leader 
+			- e.g. yacoub bringing up cluster bring ups
+			- no one would ever be like - yay we did 300k maintenances!
+				- but wed celebrate 1M GPUs
+				- my metrics are:
+					1.  reliability 
+					2. healthiness
+					3. minimize toil
+				- to do 3, the easy short-term metric is to jsut defer/push out maintenance 
+					- but there's a hidden "deferred maintenance cost" /maintenance debt 
+						- that long-term violates #1 and #2 
+			- i need some better metrics - or at least hit some baseline so there's metrics for 'growth' or 'outcomes here'
+		- **ig the net-new work are tools/systems to build to make this easier**
+	- what i learned
+		- schedule send
+		- formulas for excel 
+		- pushing back 
+		- its ok for me not to own things
+			- eg running applied cordon shouldnt be something im expected to go to terminal and be faster at
+			- lower leverage to wrangle terminal/perms compared to 
+				- pushing for maintenance controller
+- my strengths
+	- i pick up things easily
+	- im willing to learn
+- my weaknesses
+	- lack of confidence
+	- sometimes i dither
+
+
+
+
+shortlist of maintenance improvements:
+- execution
+	- maintenance controller
+		- pre maintenance
+			- button to scale in/scale out 
+			- button cordon/rma
+			- automatic signals from csp<>fleet
+		- during maintenance
+			- show progress of maintenance via dashboard OR eta tbh
+				- data/kusto/messages from CSPs
+			- show comms to users in terms of when to expect capacity 
+		- post maintenance
+			- hwh recovery 
+			- drive support cases w csp 
+				- set slas for recovery
+			- 
+- comms
+	- research
+		- automate fleet notifier 
+			- as soon as maintenance is scheduled and confirmed: 
+				- notify 1 week before
+				- <5 day before
+				- <1 day before
+				- <24 hr before
+			- false negatives is worse than false positives
+				- “It’s better to accidentally notify someone when nothing ends up happening than to fail to notify someone when maintenance does happen.”
+					- bias towards recall
+						- redundant recall amplification by spamming
+					- safety critical alerting logic
+	- applied
+		- automate peter's/simon's script for comms
+		- document signals for scheduling behavior 
+		- honestly automate messages to simont/model scheduler on call
+	- i need some better channel compared to slack pings
+		- ppl r overloaded w pings
+		- maybe go/next research channel
+		- maybe specific #.maintenancealerts channel
+			- side note i pick up well on linguistic quirks
+
+- risks
+- some theories / philosophies to learn from
+	- control theory
+	- risk communication
+	- user experience 
+	- infra / maintenance
+	- network / systems theory
+
+self-improvements:
+- become operationally faster at 
+	- excel
+	- terminal
+	- using macbook
+	- using slack
+	- using git 
+- learn how to find info easily
+	- [cluster health](https://app.mode.com/openai_tf/reports/c4bd08224a80), but also go/ndb, [Component Error Investigator](https://app.mode.com/openai_tf/reports/c98a5c692b59), and [Node History](https://app.mode.com/openai_tf/reports/1afae722e80f)
+		- figure out how to query go/ndb
+- its like typing fast. it was kinda stupid but now i type like crazy
+- be more organized at
+	- files
+	- documents
+	- things in my backpack
+	- systems for tagging things 
+		- internal decision trees
+- be tldr
+	- dont ramble and then end with "and so yeah"
+	- dont just reiterate what the last person said
+		- ask questions, say can u help me understand, help them think of the bigger picture
+		- if someone context dumps consider
+			- what part of this is important and waht should i push back on 
+	- make my voice deeper and act with authority 
+- project confidence
+	- jasmine wang is good at being a smol asian girl who still comes off intelligent 
+	- be delulu
+	- make statements w 80% confidence - dont self censure
+		- find good framing statements for this
+	- drive a call or convo
+		- im way better async
+		- nervy irl
+		- kenny has good cues
+			- what do we need to do to make X better
+- also be able to isolate myself from work stress
+	- had a lot of health problems this week, fight or flight reflex when i didnt need to 
+	- get control over ur body 
+
+general social reflections:
+- ive been more spontaneous in terms of extending / accepting hangs bc i have more time 
+- i rlly enjoy hanging w vinny and jess
+	- endlessly generative
+	- i can tell them about the rlly stupid thots ive been chewing on esp wrt style
+	- theyre just caring ppl, vinny bought us pastries and coffee 
+	- at dinner we always have good thought experiments or questions 
+- ugh even hto i didnt socialize during week i rlly happy i did bc i come alive in these hangs 

@@ -4,35 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "24fcaa54fdd6e3c2",
+        "id": "a839d44a359426e5",
         "type": "tabs",
         "children": [
           {
-            "id": "98b64c32d06f9b55",
+            "id": "712557368a2fdf64",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "content/Untitled 13.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 13"
+            }
+          },
+          {
+            "id": "26394c1e9834a7a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/problems of ai supercomputing and datacenters.md",
+                "file": "content/arena api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "problems of ai supercomputing and datacenters"
-            }
-          },
-          {
-            "id": "fed64b51fe18f4a3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "arena api"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "timepiece",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,14 +81,10 @@
             "id": "31185847201aaf84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "social ideas/future manifestations for nyc.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "future manifestations for nyc"
+              "title": "New tab"
             }
           },
           {
@@ -196,61 +194,61 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "051ab908f5c009af",
+  "active": "712557368a2fdf64",
   "lastOpenFiles": [
-    "node_modules/@types/d3-axis/README.md",
-    "node_modules/@types/d3-axis",
-    "node_modules/@types/d3-array/README.md",
-    "node_modules/@types/d3-array",
-    "node_modules/@types/css-font-loading-module/README.md",
-    "node_modules/@types/css-font-loading-module",
-    "node_modules/@types/cli-spinner/README.md",
-    "node_modules/@types/cli-spinner",
-    "node_modules/@tweenjs/tween.js/README.md",
-    "node_modules/@sindresorhus/merge-streams/readme.md",
-    "node_modules/@sindresorhus/merge-streams",
-    "node_modules/@sindresorhus",
-    "node_modules/@shikijs/vscode-textmate/README.md",
-    "node_modules/@shikijs/vscode-textmate/LICENSE.md",
-    "node_modules/@shikijs/types/README.md",
-    "node_modules/@shikijs/engine-oniguruma/README.md",
-    "node_modules/@shikijs/engine-javascript/README.md",
-    "node_modules/@shikijs/core/README.md",
-    "node_modules/@pkgjs/parseargs/README.md",
-    "node_modules/@pkgjs/parseargs/CHANGELOG.md",
-    "node_modules/@pixi/colord/README.md",
-    "node_modules/@nodelib/fs.walk/README.md",
-    "node_modules/@nodelib/fs.stat/README.md",
-    "node_modules/@nodelib/fs.scandir/README.md",
-    "node_modules/@napi-rs/simple-git-win32-x64-msvc/README.md",
-    "node_modules/@napi-rs/simple-git/README.md",
-    "node_modules/@napi-rs/simple-git-win32-x64-msvc",
-    "node_modules/@napi-rs/simple-git",
-    "node_modules/@napi-rs",
-    "node_modules/@isaacs/cliui/README.md",
-    "node_modules/@floating-ui/utils/README.md",
-    "node_modules/@floating-ui/dom/README.md",
-    "node_modules/@floating-ui/core/README.md",
-    "node_modules/@esbuild/win32-x64/README.md",
-    "node_modules/@esbuild/win32-x64",
-    "node_modules/@clack/prompts/node_modules/is-unicode-supported/readme.md",
-    "docs/images/quartz-layout-tablet.png",
-    "docs/images/quartz-layout-mobile.png",
-    "docs/images/quartz transform pipeline.png",
-    "docs/images/quartz-layout-desktop.png",
-    "docs/images/github-quick-setup.png",
-    "docs/images/github-init-repo-options.png",
-    "docs/images/giscus-results.png",
-    "docs/images/giscus-repo.png",
-    "docs/images/giscus-example.png",
-    "docs/images/giscus-discussion.png",
+    "zine ideas.md",
+    "why infrastructure.md",
+    "weight gain.md",
+    "wburg things to do.md",
+    "waymo-deepresearch.md",
+    "vegas ideas.md",
+    "urbanism/unused urban spaces.md",
+    "urbanism/timeless way of building.md",
+    "urbanism/study urban design & how to make livable cities?.md",
+    "urbanism/manifesting community.md",
+    "urbanism/european cafes.md",
+    "urbanism/cities for people notes.md",
+    "urbanism",
+    "unified planned maintenance.md",
+    "types of substack beginnings.md",
+    "tpm observations.md",
+    "timepiece.md",
+    "throughput machines, not latency.md",
+    "throughput - latency of gpus.md",
+    "the trouble with friends.md",
+    "the scaling era.md",
+    "the ai scheduling world.md",
+    "terminal short cuts.md",
+    "Templates/manager 1-1.md",
+    "Templates/daily to do.md",
+    "tech/side proj ideas.md",
+    "tech/people i aspire to be.md",
+    "tech",
+    "substack drafts",
+    "social ideas",
+    "quartz/static/icon.png",
+    "quartz/static/og-image.png",
+    "quartz/static",
+    "quartz/Private Pages.pdf",
+    "quartz/ExplicitPublish.pdf",
+    "quartz",
+    "poetic phrases",
+    "mind dump",
+    "bookmarks_over_time.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Screenshot 2026-01-29 at 11.22.58 AM.png",
+    "Screenshot 2026-01-29 at 10.19.08 PM.png",
+    "Screenshot 2026-01-28 at 3.59.00 PM.png",
+    "Screenshot 2026-01-28 at 3.46.31 PM.png",
+    "Screenshot 2026-01-28 at 3.35.51 PM.png",
+    "Screenshot 2026-01-28 at 3.29.02 PM.png",
+    "Screenshot 2026-01-23 at 12.45.55 PM.png",
+    "Untitled.canvas",
     "content/technology and ai.canvas",
     "content/Untitled.canvas",
     "content/Untitled 2.canvas",
     "content/Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "public/technology-and-ai.canvas",
     "public/Untitled-2.canvas",
     "public/Untitled.canvas"

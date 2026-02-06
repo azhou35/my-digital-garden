@@ -1,0 +1,21 @@
+---
+title: "mode data"
+---
+
+ALTER SESSION SET STATEMENT_TIMEOUT_IN_SECONDS = 120;
+
+WITH latest_timestamp AS (
+  SELECT MAX(timestamp)
+  FROM node_db.node_health_sla.fleet_health_timeseries
+)
+SELECT *,
+  TO_CHAR(timestamp) AS timestamp_str,
+  (COUNT_VALIDATION + COUNT_OAI_UNHEALTHY + COUNT_VENDOR_UNHEALTHY + COUNT_BOOTSTRAP + COUNT_BOOTED_MISSING+ COUNT_NOT_BOOTED + COUNT_NEVER_BOOTED + COUNT_OFR) AS COUNT_total_unhealthy
+FROM node_db.node_health_sla.fleet_health_timeseries
+WHERE timestamp = (SELECT * FROM latest_timestamp)
+  AND cluster in ('beluga','boron','chromium','f25','f26','fluorine','iron','lutetium','magnesium','nickel','scandium')
+  AND cluster_island in ('aluminum-a','aluminum-b','argon-a','beluga-a','beryllium-a','beryllium-b','beryllium-c','boron-a','boron-b','boron-c','boron-d','boron-e','boto-a','bowhead-a','c100-none','c101-none','c102-none','c103-a','c104-a','c105-a','c113-a','c11a-a','c11b-none','c11c-none','c12-none','c122-none','c123-a','c124-a','c13a-a','c143-a','c144-a','c145-a','c148-a','c148-b','c149-a','c149-b','c149-c','c149-d','c14a-none','c150-a','c151-a','c154-a','c155-b','c156-b','c158-b','c16-a','c165-b','c166-a','c17-a','c174-a','c176-a','c176-b','c177-a','c179-a','c181-a','c183-a','c184-a','c185-a','c186-a','c186-b','c192-a','c194-a','c195-a','c195-b','c196-a','c196-b','c197-a','c198-a','c199-a','c199a-b','c200-a','c201-a','c201-b','c201-c','c201-d','c202-a','c204-b','c204-c','c206-a','c207-a','c208-b','c21-none','c211-a','c213-a','c215-a','c216-a','c218-a','c219-a','c22-a','c220-a','c220-b','c221-a','c222-a','c223-a','c224-b','c227-a','c229-a','c229-b','c230-a','c232-a','c235-a','c236-a','c238-a','c244-a','c245-a','c245-b','c245-c','c245-d','c245-e','c248-a','c25-a','c251-a','c252-a','c253-a','c254-a','c256-b','c259-a','c259-b','c26-a','c261-a','c263-a','c265-a','c268-a','c27-a','c271-a','c273-a','c274-a','c274-b','c28-a','c280-a','c284-a','c285-a','c286-b','c29-a','c29-none','c291-a','c293-a','c294-a','c34-none','c342-a','c343-a','c344-a','c344-b','c347-b','c349-a','c349-none','c35-a','c351-a','c356-a','c363-a','c365-a','c366-a','c367-a','c369-b','c371-a','c377-b','c38-a','c39-a','c40-a','c402-a','c41-a','c41-b','c42-a','c43-a','c46-a','c46-c','c46-d','c52-none','c53-none','c54-none','c55-none','c56-none','c57-a','c57-b','c57-c','c57-d','c58-none','c59-a','c61-none','c65-none','c66-none','c67-a','c68-a','c69-a','c6a-a','c6a-b','c6a-c','c6a-d','c70-a','c71-a','c71-b','c71-c','c72-a','c73-a','c74-a','c75-a','c76-none','c77-a','c79-a','c83-a','c84-a','c85-a','c86-a','c88-b','c89-a','c90-a','c91-none','c92-a','c94-a','c97-none','c98-none','calcium-a','calcium-b','carbon-a','carbon-b','carbon-c','chromium-a','f10-a','f15-a','f16-a','f2-a','f24-a','f25-a','f25-b','f26-a','f26-b','f27-a','f28-a','f29-a','f3-a','f30-a','f31-a','f32-a','f33-a','f37-a','f38-a','f4-a','f4-b','f4-c','f4-d','f5-a','f6-a','fluorine-a','fluorine-b','fluorine-c','fluorine-d','fluorine-e','fluorine-f','fluorine-g','fluorine-h','fluorine-i','fluorine-j','fluorine-k','fluorine-l','fluorine-m','fluorine-n','fluorine-o','fluorine-p','fluorine-q','fluorine-r','habanero-a','iron-a','iron-b','iron-c','iron-d','krypton-01-06-a','krypton-01-07-a','lithium-a','lutetium-a','lutetium-b','lutetium-d','magnesium-a','magnesium-b','magnesium-c','magnesium-d','magnesium-e','magnesium-f','magnesium-g','magnesium-h','magnesium-i','magnesium-j','magnesium-k','magnesium-l','mendelevium-a','minke-b','narwhal-a','narwhal-b','nickel-a','nitrogen-a','orca-c','ouroboros-d','oxygen-a','oxygen-b','oxygen-c','oxygen-d','oxygen-e','oxygen-f','oxygen-g','panda-a','panda-b','panda-c','panda-e','panda-h','panda-i','panda-j','potassium-a','quail-a','raven-a','scandium-a','scandium-b','shrimp-a','sodium-a','sodium-b','susu-c','tiger-a','titanium-a','titanium-b','titanium-c','titanium-d','unicorn-a','vanadium-a','vanadium-b','viper-a','xeno-b','xenon-02-11-a','xenon-02-12-a','xenon-02-13-a','xenon-02-14-a','zebra-a','zebra-b')
+  AND cluster_criticality in ('STANDARD','FRONTIER','CRITICAL')
+  AND cluster_org in ('RESEARCH')
+  AND (vendor_name IS NULL OR vendor_name in ('CoreWeave','OCI','Azure','UNKNOWN_VENDOR','CoreWeaveDirect','CoreWeaveWithGcp'))
+ORDER BY serving_offset_from_sla ASC

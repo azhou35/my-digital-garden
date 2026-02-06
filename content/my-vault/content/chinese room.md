@@ -1,0 +1,5 @@
+---
+title: "chinese room"
+---
+
+[Chinese room - Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)

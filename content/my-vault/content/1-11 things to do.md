@@ -1,0 +1,32 @@
+---
+title: "1-11 things to do"
+---
+
+- make call on phx60 - u should just do it on thursday
+- start a post mortem on week 1 for azure
+	- remember to call out what processes/systems they should build to make this easier next time
+	- why is a full cluster maintenance so high touch compared to CW or GCP 
+		- GCP goes in the bg 
+		- CW i trust 
+	- highlight the key wins and thanks 
+	- we appreciate ur work - infra is a thankless job where you expect near-perfect reliability/performance and allow little affordance for downtime or blips 
+	- this maintenance was a healthy reminder that
+		- this is unavoidable
+		- this is necessary 
+	- at the same time this maintenance revealed a lot of weaknesses in our system - or lack thereof
+		- feedback to them
+		- feedback to ourselves
+	- analogy: its as if the mta suddenly had transformers about to explode and needed to replace all of them in two weeks
+		- we should get to a point where it is not impossible to our current systems to enable these maintenances
+		- i want to be like the japanese shinkansen where u allow downtime
+	- to get that time we need
+		- trust
+		- better systems
+		- more resources/better allocation of such 
+		- buyin from ur other infra stakeholders
+		- operational flywheels
+		- let us trust u that u will pursue better systems
+- what documents/artifacts should i produce?
+	- open letter to Fleet on how to make this easier 
+		- start w story of metro
+	- feedback to azure

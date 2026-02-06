@@ -1,0 +1,15 @@
+---
+title: "c. thi nguyen on games"
+---
+
+https://www.dialectic.fm/C-Thi-Nguyen-Lessons-2e746137d588802aad47fee34f3b2c50?pvs=21
+1. **Waste is the point.** Bernard Suits defines play as redirecting normally useful resources—logic, physical prowess, attention—toward activities that exist for their own sake. Play is only wasteful if you think outcomes are all that matter. A life optimized entirely for usefulness can end rich in resources and poor in meaning.
+2. **Move lightly between worlds.** To Maria Lugones, to be playful is to inhabit worlds—whether business, family, art—lightly and creatively, rather than surrendering yourself to a single mode of being.
+3. **Game designers sculpt your agency*.*** Games don’t tell stories, they shape your action so that decisions and stories come out of you. Designer Reiner Knizia’s core insight: the scoring system tells players what to care about and what to want, making it it easy to act.
+4. **Attention guides what matters.** What you value is what you attend to, and scoring systems direct attention. Rock climbing without ropes forces your attention to tiny details of the rock and your balance you’d never see otherwise. Games train us to refine attention through constraint and feedback; metrics do the same but with much less nuance.
+5. 10. **All tools encode values.** Every classification system involves decisions about where to reduce granularity (census data cares about Asian versus Latino but forgets South Asian versus East Asian). You can't count something without first deciding what counts, and that decision is never neutral.
+6. **Choose your maps carefully.** Maps are not the territory, but the solution isn’t to avoid maps.
+7. The question is whether we force one map on everyone or create variety to help people know there are choices. Better yet, build tools that let people build the maps they need and want.
+8. Sit with fuzzy values. Vibe, aura, interesting, rich; these terms gesture at something important without defining the edges. New slang emerges when people need language to express what matters while staying in uncertainty. Meaningful inarticulateness means refusing to pretend we know things precisely when we don't.
+9. The process is where values are. Aristotle: the value in human life comes from the rich exercise of our capacities: thinking, moving, perceiving, relating. Optimization assumes we already know what matters and just need to maximize it, leaving no room to discover what we’ve missed. Play does the opposite: it invites wandering, tolerates confusion, and keeps us open to surprise long enough to learn what’s actually worth caring about.
+10. Remember you’re a grasshopper. Bernard Suits argues for the grasshopper’s playfulness over the ant’s industriousness. Success breeds confidence, and you can start trusting your opinions too much. Thi’s antidote is deliberately being a beginner—doing things that are dumb, hard, and social, and failing in public. Being absorbed in an activity you can’t justify, optimize, or even explain reminds you to be playful.

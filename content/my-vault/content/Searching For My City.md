@@ -1,0 +1,21 @@
+---
+title: "Searching For My City"
+---
+
+#thinkpiece
+https://joinreboot.org/p/searching-for-my-city
+But online, I would be hard pressed to find the same concentration of local people, discussion, and culture that this humble cafe is able to create. The painful reality is that the internet somehow makes it easier to find friends who live halfway across the world than to connect with the people who live down the street. From my point of view, we’re already one foot into a metaverse of sorts—a web of online communities, information, and experiences that all too often exclude the people and places we physically contend with each day and depend on for our survival. There’s some beauty in our newfound ability to explore beyond home so easily, but there’s also a risk of forgetting, of losing our relationship with what actually sustains our lives. 
+
+Despite the internet’s boundless capacity for connection and expression, I’m still searching for my city online. 
+
+![[Pasted image 20260129183458.png]]
+
+Early on in this movement, the Community Memory Project took that limitation and doubled-down on it by placing computer terminals in supermarkets, record stores, cafes, and laundromats all across the Bay Area. Born from the countercultural roots of Berkeley’s Free Speech Movement, the founders hoped to create a local network of information that always pointed back to the person providing it (basically, a digital bulletin board). The first terminal in Leopold’s Records helped rising musicians find collaborators, clients, and other resources in the area to advance their craft, and over the course of its 20 year tenure, the Project supported a healthy ecosystem of spontaneous relationships through a local, digital commons. In the words of Lee Felsenstein, “[they] opened the door to cyberspace and found that it was hospitable territory”—not just to countercultural computer geeks, but to just about any neighbor who happened upon one of their terminals. 
+
+With all of these developments, modern digital platforms have made reviewing the places around you the most common way of engaging with your city or town. Yelp, Foursquare, and Google Maps provide star ratings for just about every “point of interest” around you, whether it’s a pizza parlor or a park. This tendency shapes the default definitions of places around us as well: a brief search of “Lower Haight” yields a never-ending list of things to see and do, ranked lists of restaurants, and moving guides for those who might consider Lower Haight their new home. 
+
+But these platforms don’t really scratch my itch for finding a sense of community online. ==With the exception of a few pictures of families walking through the city’s parks, scrolling through Instagram’s hard-to-find “Places” feed for San Francisco is chock full of semi-professional food pictures and tourists posing in front of landmarks. It is a series of atomized (and often commercialized) experiences that happen to be co-located;== no one is encouraged to make meaning of the place they live in together or question the way that things are, much less actually spend time with friends and neighbors. Perhaps worse, it presents a surface-level understanding of a place that I know to be incredibly diverse, full of people of many backgrounds, languages, and lores. ==Opportunities for connection are generally removed from the picture, even more elusive than the Places feed is to begin with.== 
+
+
+The trend towards consumption within location-based platforms is something that ==William Payne (a geography and urbanism professor at Rutgers University) describes well through his piece “[[Crawling the City]].” As highlighted in his studies, the quantification of a business’s character through views and five-star reviews feeds into a speculative== perception of place; by seeing which places and spaces are becoming “hot,” developers and entrepreneurs from around the world are able to target new sites for growth. While the underlying socioeconomic shifts of urban life are clearly influenced by much more than just Yelp reviews, the production and interactions on these platforms might actually accelerate the gentrification of these places, and the displacement of the very people who made that place special at all.
+

@@ -1,0 +1,5 @@
+---
+title: "repeating mothers dishes"
+---
+
+![[Pasted image 20241110205015.png]] 

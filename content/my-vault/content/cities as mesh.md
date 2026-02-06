@@ -1,0 +1,28 @@
+---
+title: "cities as mesh"
+---
+
+https://tial.notion.site/The-City-as-Mesh-options-for-handling-cross-cutting-tasks-in-city-governments-2c726ada00ac81249709dc4568f5d920 
+Cities have always faced cross-cutting challenges – how to grow, how to handle recessions or big influxes of migrants and refugees or at the extreme the challenges of natural disasters and wars. But today’s challenges – from climate emergencies and pandemics to problems of social cohesion – may be becoming the typical problems not the unusual ones, leaving a gap between the capabilities Mayors have at their disposal and the problems that are highest on their agendas. Most cities have organograms like this one from New York, still divided into functional verticals not so different from 50 or 100 years ago:
+One answer to cross-cutting issues is centralisation – all the choices can go up to the Mayor and the central team, who are able to take a wide view. This may work for a few issues and at some times. But it is rarely viable for long because the decision-makers at the center are likely to have less good intelligence, including both formal and tacit knowledge, and because they risk becoming a bottleneck, slowing things down, simply because of the number and complexity of decisions to be made.Digital transformation has been a key priority for many city governments for several decades, as they try to simplify and streamline citizen access to services through digital platforms. Where public services once required physical spaces, digital platforms can enable coordination through shared data, protocols, and interfaces.
+
+After digitising individual services, cities have moved to more integrated approaches. Some use national platforms: Copenhagen, sometimes ranked the world’s most advanced digital city, has both influenced and made use of the national [borger.dk](http://borger.dk) platform, while Mexico City’s Llave CDMX, which provides a single digital key to multiple services, has now been extended nationally. Hong Kong’s platform-based approaches to running the city are now amongst the most advanced, driven, as in many cities, by a strong digital policy team.
+
+Medellín's ‘social urbanism’ pioneered an approach in neighborhoods dominated by drug trafficking and paramilitaries. Rather than leading with policing, the city invested in integrated community service centers – public buildings combining libraries, sports facilities, job training and cultural programming. The concept rested on a simple premise: *"the opposite of violence is coexistence"* These weren't just buildings but nodes of the city administration integrating multiple departments in a single physical presence. Over 30 years, Medellín saw violence drop 95%. This model has spread across Latin America, adapted to local contexts, like the Community Centers for Peace (COMPAZ) in Recife, which has been implemented in 6 areas of the city, with users ranging from youth to elderly. Results show 21-35% reductions in violent deaths in surrounding neighborhoods – demonstrating how care, security, and territorial presence are inseparable in practice.
+
+Cities in much richer nations have developed similar innovations in response to rapid demographic change. Seoul developed Senior Welfare Hubs, with each of its 25 districts operating integrated centers for elderly services, co-funded by multiple city offices (Health, Social Welfare, Transport, Smart City). These hubs function as local one-stop shops, breaking down functional silos.
+
+![[Pasted image 20260129210700.png]]
+![[Pasted image 20260129210705.png]]
+![[Pasted image 20260129210710.png]]
+
+Some, like the Internet itself, work through protocols: a way of thinking now being applied to energy (like Beckn, in energy) and educational credentials but still relatively little used in public policy. Another set of models formalise the meshes – building new institutions that combine several tiers of government, as well as business and civil society, to collaborate to get things done. These may be essential in the future for handling data which comes from different tiers of government as well as business, with data trusts to link data across different modes of transport, or in relation to energy use so as to maximise its public value. At present data continues to be dominated by commercial platforms and national governments, but this severely limits the scope for cities to act and limits their capacity to use AI.
+These in turn point to the potential value of ‘**stack models’,** which are already widely used in finance and communications. Their essential insight is that a series of roles can be organised as layers, with mutual visibility, but not needing to all be organised in a single structure. This way of thinking may be relevant to urban regeneration or innovation districts where a stack-based partnership could have parallel arrangements for:
+
+- Infrastructure planning
+- Capital allocation
+- Orchestration of knowledge
+- Everyday management of built environments
+- Orchestration of innovation
+
+Others still look to biological metaphors – organising more like **myceliums** or **coral reefs** than like traditional military or commercial models. This is how real cities have always worked, with organic networks of mutual support in which connections below ground may matter more than what’s visible. These can work better for coordinating arts, childcare provision, voluntary activity, or indeed for supporting resilience to respond to shocks, and may be essential for those areas of city activity that most involve co-production with the public: for example, supporting networks of care around the frail elderly that combine professional support with support from volunteers, family and friends.**

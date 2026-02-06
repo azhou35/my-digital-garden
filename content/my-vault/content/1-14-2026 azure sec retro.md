@@ -1,0 +1,23 @@
+---
+title: "1-14-2026 azure sec retro"
+---
+
+- communication
+	- our p0 issues were sometimes delayed and ignored because there were 1) too many middle men in the way 2) rotating DRIs for one project
+- execution 
+- handoff
+	- unclear signals on both sides
+	- azure would expect a cluster that we were not ready for 
+	- we would expect a cluster that azure was not ready for 
+		- as a result a cluster would start late and end much later
+- technical
+	- mid maintenance
+		- autoscaler
+			- our autoscaler would trigger in the middle of maintenance 
+				- but we had mismatching numbers 
+		- we would be stuck waiting for a long tail of nodes when updates were X % done
+	- post-maintenance
+		- issues w VMSS scaleup
+			- capacity targetting
+			- fabric setting 
+			- 

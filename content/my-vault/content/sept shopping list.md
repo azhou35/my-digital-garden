@@ -1,0 +1,11 @@
+---
+title: "sept shopping list"
+---
+
+- gift for nibao 1 year
+- matcha from rocky
+- rug 
+- lamp 
+- better lightbulps
+- more storage containrs 
+- 

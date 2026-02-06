@@ -1,0 +1,5 @@
+---
+title: "NYC library card"
+---
+
+![[Pasted image 20241205123335.png]]

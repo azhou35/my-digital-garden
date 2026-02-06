@@ -1,0 +1,38 @@
+---
+title: "breakneck dan wang"
+---
+
+- guizhao - datacenter center of china 
+- railroad system from shanghai <> beijing started at same time as sf <> la in 2008
+	- finished in 2011, while la is still not until 2030
+- lawyer vs engineering state
+- fengzhou - alibaba 
+- shanghai well-connected
+	- hangzhou - alibaba
+	- suzhou - manufacturing 
+	- wetland parks around bike path 
+- economic growth rate 10% a year
+- americans dont like infra projects
+	- rare  
+	- environmental impact 
+	- save for texas/arizona 
+	- default in coastal cities is towards rigidity
+	- little eagerness for physical change 
+- manufacturing in china
+- lot of influence from soviet union / manufacturing 
+	- production vs consumption 
+- china is lightly taxxed on property taxes - moreso consumption tax
+- welfare
+	- 10% on social spending 
+	- compared to higher # s in US and europe
+	- esp on unemployment
+	- worrying that welfare cna make ppl lazy
+		- feels like chinese parents lmao
+- central planning has resonance with china's engineering state / construction and control
+- leaders
+	- deng xiao ping 
+- huge differential in life outcomes for someone born in 1949 vs 1959
+- tik tok trends and cultural trends
+	- how fast is it? is it durable or is it an enduring cultural trend
+- ai is not good at shifting between registers 
+	- polish / professional -> casual

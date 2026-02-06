@@ -1,0 +1,6 @@
+---
+title: "thoughts on yingtao"
+---
+
+i entered the hells kitchen with a thesis that chinese cuisine is misrepresented on the fine dining scene and that yingtao, perhaps, had potential to break through. 
+with a weak french x chinese theme, everything was uninspiring and poorly executed. the sea bass with flowers and goji berries was overcooked. 

@@ -1,0 +1,25 @@
+---
+title: "jan 26 intentions"
+---
+
+- meet ppl
+	- P0 
+		- amy
+		- amanda
+	- P1
+		- zeke
+		- kevin 
+- create things
+	- P0 
+		- 1 drawing 
+		- 1 coding experiment
+		- 1 Substck
+		- 1 cafe - lucky cat club
+			- materials
+			- logo
+			- branding
+		- curiosity salon [[maintenance curiosity salon]]
+	- P1
+		- 1 Zine 
+- buy furniture
+	- order 

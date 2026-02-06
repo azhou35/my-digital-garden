@@ -1,0 +1,5 @@
+---
+title: "technical writing notes + dev advocacy"
+---
+
+developer advocacy seems like a really unique blend of communication + geeky/nerdy evangelism + deep technical understanding. seems great on open-source tooling esp, and it tickles the same elements of a pm role (e.g. writing, gathering feedback, communicating across stakeholders) but the feedback loop is sm faster since it's media-based - in some ways you almost feel closer to the user bc your literal words are being written.

@@ -1,0 +1,6 @@
+---
+title: "mccarren fever dream"
+---
+
+- subsisting only off of bites of chocolate and oh my ghee lesser evil popcorn, i skrted to mccarren on the first monday of july
+- 

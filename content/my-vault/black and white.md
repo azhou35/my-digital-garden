@@ -1,0 +1,6 @@
+---
+title: "black and white"
+---
+
+* looking at tones only 
+* make it as simple too detailed 

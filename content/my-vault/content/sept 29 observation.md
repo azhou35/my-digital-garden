@@ -1,0 +1,6 @@
+---
+title: "sept 29 observation"
+---
+
+* when it rains in nyc there's such a slight slope that it pools by the puddle at the traffic light intersection
+	* moment where i want to go forward but i stop myself just in time to avoid getting splashed by a car ()

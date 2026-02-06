@@ -1,0 +1,13 @@
+---
+title: "list of things from working in big tech"
+---
+
+*nb: this comes from the pov of a tpm servicing a rather ambitious-yet-large startup customer, and the strengths and weaknesses of hyperscaler in a competitive space*
+format inspired by [Sajjad's Website](https://www.sajjadzafar.com/?section=notes&file=Notes%2FBigTechReflections.md) 
+1. it will be hard to get things done by nature of the scale you work with. it almost feels like a self-fulfilling prophecy that new feature requests will take months to execute. 
+2. you choose microsoft for stability - its employees, partners, and customers. fortune 500 enterprises can rely on their servers to run during peak load at christmas time, and that employees are 99.9999% sure they won't get laid off nor overextended. 
+	1. stability comes at the compromise of flexibility: microsoft is a formidable giant, but a slow-moving one, at that. a mentor once described it as a giant warship that takes longer to shift directions at the prospect of an incoming wave, giving smaller battalions time to swerve in front. however, once it's pointed at the right way, it can outcompete through sheer resources and platform power. 
+3. i witnessed a lot of *[rent seeking behavior]([ELI5: What is "rent extraction" and "rent-seeking"? : r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/pr7bo6/eli5_what_is_rent_extraction_and_rentseeking/))* - in the sense that opportunistic peers would rather create high-leverage problems out of thin air rather than address a laundry list of low-leverage problems. 
+4. a company is a culture with its own corporate-friendly lingo: we like to *double click* into data, *peel the onion* of complex problems, *put a pin* on rambling tangents, *ciRclE bAcK* on unresolved issues. 
+5. there are fences everywhere for those with eyes to see - and sometimes they're meant to be there. don't remove [them]([Chesterton’s Fence: A Lesson in Thinking](https://fs.blog/chestertons-fence/)) until you know why they were put up: whether they're intentionally protecting a sensitive topic - e.g. SLAs that prevent real damage - or they were historically set up out of precaution that the situation has since evolved past. 
+6. i can't imagine microsoft without remote work, and i can't imagine remote work *working* anywhere but microsoft. when you partner with 30+ folks scattered across time zones and globe, it makes sense we can't fit within a single central office. 

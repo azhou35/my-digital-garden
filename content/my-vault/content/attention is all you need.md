@@ -1,0 +1,5 @@
+---
+title: "attention is all you need"
+---
+
+[Protecting our attention - by Nadia - Monomythical (substack.com)](https://nayafia.substack.com/p/protecting-our-attention?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true)
