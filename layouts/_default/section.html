@@ -12,18 +12,10 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        {{ $allPages := .RegularPages }}
-        {{ $publishedPages := where $allPages ".Params.publish" true }}
-        <p>Total pages: {{ len $allPages }}, Published: {{ len $publishedPages }}</p>
-        {{ if gt (len $publishedPages) 0 }}
-            {{ $paginator := .Paginate ($publishedPages.ByLastmod.Reverse) }}
-            {{partial "page-list.html" $paginator.Pages }}
-            {{ template "_internal/pagination.html" .}}
-        {{ else }}
-            {{ $paginator := .Paginate ($allPages.ByLastmod.Reverse) }}
-            {{partial "page-list.html" $paginator.Pages }}
-            {{ template "_internal/pagination.html" .}}
-        {{ end }}
+        {{ $publishedPages := where .RegularPages ".Params.publish" true }}
+        {{ $paginator := .Paginate ($publishedPages.ByLastmod.Reverse) }}
+        {{partial "page-list.html" $paginator.Pages }}
+        {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}
 </div>
