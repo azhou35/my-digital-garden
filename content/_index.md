@@ -8,7 +8,7 @@ Welcome to my little corner of the Internet — a digital garden where I collect
 
 - **[timepiece](/my-vault/timepiece/)** — on building a less anxious relationship with time
 - **[living in nyc](/my-vault/content/living-in-nyc/)** — why I moved to the city
-- **[BeReal](/my-vault/tech/bereal/)** — the post-pandemic answer to ambient noise
+- **[BeReal](/my-vault/tech/BeReal/)** — the post-pandemic answer to ambient noise
 - **[modern friendship](/my-vault/content/modern-friendship/)** — navigating relationships in the digital age
 
 ## Browse by topic
